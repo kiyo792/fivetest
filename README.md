@@ -6,3 +6,5 @@
 #a
 dsjgdfgfjs
 >>>>>>> Stashed changes
+
+test.text-truncate
